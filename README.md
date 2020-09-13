@@ -10,6 +10,10 @@ I installed only
 * twine
 * jupyter
 
+# To install the created functions
+pip install -i https://test.pypi.org/simple/ studyguide-sprint1==0.0.1
+
+
 ```
 
 Practice functions
